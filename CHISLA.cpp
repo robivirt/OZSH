@@ -1,3 +1,5 @@
+//mathematic answer 3888
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
